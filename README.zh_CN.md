@@ -47,7 +47,7 @@ React Hooks + Typescript 最佳实践。
 $ git clone https://github.com/WinmezzZ/react-antd-admin.git
 $ cd react-antd-admin
 $ npm install
-$ npm start
+$ npm run dev
 ```
 
 ## 🔨 构建

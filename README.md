@@ -49,7 +49,7 @@ $ cd react-antd-admin
 
 # npm
 $ npm install
-$ npm start
+$ npm run dev
 
 # yarn
 $ yarn install
